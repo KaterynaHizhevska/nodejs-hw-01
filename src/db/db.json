@@ -33,5 +33,40 @@
     "phone": "1-810-499-5578",
     "email": "Antwon.Rodriguez14@gmail.com",
     "job": "Future Paradigm Specialist"
+  },
+  {
+    "id": "74a50c89-4024-4bdc-ba62-8b7ee1366dd0",
+    "name": "Inez Schinner MD",
+    "phone": "445.493.5401 x43724",
+    "email": "Emile.Koss84@hotmail.com",
+    "job": "International Metrics Liaison"
+  },
+  {
+    "id": "f09cf732-7e84-4cea-b2c8-fa87735832af",
+    "name": "Lee Kris",
+    "phone": "261-799-9218",
+    "email": "Astrid.Cole32@hotmail.com",
+    "job": "Direct Operations Planner"
+  },
+  {
+    "id": "cbaa3104-4841-4286-a073-a9a6539a8aa6",
+    "name": "Lynda Kutch",
+    "phone": "837-696-3805 x993",
+    "email": "Eldora_Zulauf53@gmail.com",
+    "job": "Dynamic Security Consultant"
+  },
+  {
+    "id": "fd98ccfe-d125-4a83-8a8b-28fffed3b0b7",
+    "name": "Steven Hagenes MD",
+    "phone": "678.734.2088 x669",
+    "email": "Jena_Satterfield@hotmail.com",
+    "job": "Internal Branding Assistant"
+  },
+  {
+    "id": "a22a30ba-3518-41ec-87f6-50e6cc2fd96f",
+    "name": "Elmer Gottlieb",
+    "phone": "1-629-994-0257 x67447",
+    "email": "Erin_Stroman41@hotmail.com",
+    "job": "Forward Research Coordinator"
   }
 ]
